@@ -1,13 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/e9oOIXnI)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17857811)
-
-> [!NOTE]
->
-> #### Informacje ogólne
-> W tym pliku należy udokumentować projekt. W nagłówku poniżej wpisz nazwę projektu, a następnie wpisz dokumentację, korzystając z formatu `markdown` ([GitHub doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).
->
-> W ramach oceny, poza wykonaniem projektu, oceniane będzie stosowanie dobrych praktyk programistycznych w Pythonie, sprawdzane za pomocą programu `pylint` (**wszystkie flagi aktywne**). Ocena kodu przez `pylint` będzie stanowiła 10% oceny za projekt.
-
 # Game of Life
 
 Program implementuje automat komórkowy (The Game of Life) wymyślony przez Johna Conwaya w 1970 roku.
